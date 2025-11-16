@@ -15,7 +15,7 @@
 
     <properties>
         <bnd.version>6.1.0</bnd.version>
-        <path.to.java></path.to.java>
+        <path.to.java/>
     </properties>
 
 
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>license-checker</artifactId>
-            <version>1.11.2</version>
+            <version>1.13.5</version>
         </dependency>
 
         <dependency>
