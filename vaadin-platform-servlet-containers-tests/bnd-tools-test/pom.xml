@@ -15,7 +15,7 @@
 
     <properties>
         <bnd.version>6.1.0</bnd.version>
-        <path.to.java></path.to.java>
+        <path.to.java/>
     </properties>
 
 
@@ -75,7 +75,7 @@
         <dependency>
             <groupId>org.eclipse.platform</groupId>
             <artifactId>org.eclipse.osgi</artifactId>
-            <version>3.16.0</version>
+            <version>3.23.200</version>
             <scope>runtime</scope>
         </dependency>
 
